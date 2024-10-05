@@ -1,0 +1,8 @@
+![api-1](https://github.com/user-attachments/assets/a809d46f-1ac5-42e3-8492-391af389495e)
+![frontend-2](https://github.com/user-attachments/assets/99eb8890-45d8-4af7-b7f9-ccde49409b27)
+![frontend-1](https://github.com/user-attachments/assets/38157742-ef59-4b37-aa2e-f1f396a588da)
+![MySQL_Tablolar](https://github.com/user-attachments/assets/3b075ac3-6803-45e0-baa6-45fbf4c52f60)
+![api-index](https://github.com/user-attachments/assets/992242a1-2326-4538-b5f8-347834307053)
+![dataLoad](https://github.com/user-attachments/assets/94377df9-f080-4f7f-a598-9db625631e80)
+![DB-connection](https://github.com/user-attachments/assets/73e646bd-989c-4ab6-960d-b3671a2bebda)
+![api-2](https://github.com/user-attachments/assets/fe1a8a47-ac7a-4101-a0a4-45a53b91cc7b)
